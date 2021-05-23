@@ -10,6 +10,7 @@
     "react-helmet": "6.1.0"
   },
   "devDependencies": {
+    "@headlessui/react": "^1.2.0",
     "@types/react": "17.0.0",
     "@types/react-dom": "17.0.0",
     "@types/react-helmet": "6.1.0",
@@ -38,6 +39,7 @@
     "gatsby-plugin-typescript": "2.7.0",
     "gatsby-source-filesystem": "2.6.1",
     "gatsby-transformer-sharp": "2.7.0",
+    "hamburger-react": "^2.4.1",
     "husky": "4.3.0",
     "lint-staged": "10.5.1",
     "postcss": "^8.1.9",
