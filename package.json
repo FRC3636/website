@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-typescript-tailwind",
-  "private": false,
-  "description": "A gatsby starter kit using TypeScript and Tailwind CSS",
-  "version": "0.1.247",
-  "author": "Florentin Eckl <ecklf@icloud.com>",
+  "name": "grantrobotics-website",
+  "private": true,
+  "description": "The website for Grant High School's robotics team 3636.",
+  "version": "0.1.0",
+  "author": "Max Niederman <max@maxniederman.com>",
   "dependencies": {
     "react": "17.0.1",
     "react-dom": "17.0.1",
@@ -45,13 +45,6 @@
     "tailwindcss": "^2.0.1",
     "typescript": "4.1.2"
   },
-  "keywords": [
-    "gatsby",
-    "typescript",
-    "tailwind",
-    "tailwind css",
-    "starter"
-  ],
   "license": "MIT",
   "scripts": {
     "type-check": "tsc --noEmit",
@@ -63,13 +56,6 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/impulse/gatsby-typescript-tailwind"
-  },
-  "bugs": {
-    "url": "https://github.com/impulse/gatsby-typescript-tailwind/issues"
-  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -78,12 +64,10 @@
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
       "prettier --write",
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ],
     "*.{json,md}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   }
 }
