@@ -4,4 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
+import "@fontsource/karla";
+import "@fontsource/spectral";
+
 import "./src/css/index.css";

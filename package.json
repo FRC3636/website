@@ -5,6 +5,8 @@
   "version": "0.1.0",
   "author": "Max Niederman <max@maxniederman.com>",
   "dependencies": {
+    "@fontsource/karla": "^4.3.0",
+    "@fontsource/spectral": "^4.3.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-helmet": "6.1.0"

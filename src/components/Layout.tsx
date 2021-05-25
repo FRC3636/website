@@ -19,17 +19,21 @@ const Layout: React.FC<Props> = ({ children }) => {
 	`);
 
 	return (
-		<>
+		<div className="h-screen bg-green-300">
 			<Helmet>
 				<title>{data.site.siteMetadata.title}</title>
 				<meta name="description" content={data.site.siteMetadata.description} />
 				<meta name="author" content={data.site.siteMetadata.author} />
 			</Helmet>
 
-			<Header />
+			<div className="fixed w-screen">
+				<Header />
+			</div>
 
-			{children}
-		</>
+			<div className="md:grid grid-cols-2 lg:grid-rows-auto-screen">
+				{children}
+			</div>
+		</div>
 	);
 };
 

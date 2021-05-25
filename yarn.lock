@@ -1167,6 +1167,16 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/karla@^4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/karla/-/karla-4.3.0.tgz#f0bdb85125104a0895d6e005735e33fa2e2ec024"
+  integrity sha512-YbUWD2Url1BfrOVBckre1YglqNPq+NoV8KNhj+53GcdMYbUYi976nx+RkUZwSzc76Zi83L4y/qSThz/uXPFOrg==
+
+"@fontsource/spectral@^4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/spectral/-/spectral-4.3.0.tgz#ef97336eaf161cac4499abba2094ec404387d543"
+  integrity sha512-3PDxbk2bShopt5+X9Mh0zUvNcDMQJpBhLbf7ZRJwPa6qhICgJs6oIdIPGx6bW9n81h8v9IVZnbMqhGsWoefMmQ==
+
 "@fullhuman/postcss-purgecss@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@fullhuman/postcss-purgecss/-/postcss-purgecss-3.0.0.tgz#e39bf7a7d2a2c664ed151b639785b2efcbca33ff"

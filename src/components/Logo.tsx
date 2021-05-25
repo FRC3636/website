@@ -1,7 +1,13 @@
 import React from "react";
 
-interface Props {}
+interface Props {
+	className?: string;
+}
 
-const Logo: React.FC<Props> = (_props) => <h1 className="text-4xl">G.36</h1>;
+const Logo: React.FC<Props> = ({ className = "" }) => (
+	<h1 className={`text-4xl font-bold inline-block align-middle ${className}`}>
+		G.
+	</h1>
+);
 
 export default Logo;
