@@ -10,14 +10,19 @@
       grid-auto-rows: 100vh;
     }
   }
+
+  @variants responsive, dark {
+   .colors-dark {
+      @apply bg-black text-white;
+    }
+
+    .colors-light {
+      @apply bg-white text-black;
+    } 
+  }
 }
 
 body {
   min-height: 100vh;
   overflow-x: hidden;
 }
-
-h1, h2, h3, h4, h5, h6 {
-  @apply font-serif;
-}
-

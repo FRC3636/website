@@ -15,11 +15,11 @@ interface Props {}
 const Header: React.FC<Props> = (_props) => {
 	return (
 		<nav className="flex justify-between">
-			<div className="flex h-12 self-start items-center px-2 bg-black dark:bg-white text-white dark:text-black rounded-br">
+			<div className="flex h-12 self-start items-center px-2 colors-dark dark:colors-light rounded-br">
 				<Logo />
 			</div>
 
-			<div className="bg-black dark:bg-white text-white dark:text-black rounded-bl">
+			<div className="colors-dark dark:colors-light rounded-bl">
 				{/* Dropdown Menu */}
 				<Popover className="flex flex-col sm:hidden">
 					{({ open }) => (
@@ -35,7 +35,7 @@ const Header: React.FC<Props> = (_props) => {
 										className="text-lg"
 										activeClassName="underline"
 									>
-										<h2>{name}</h2>
+										<h1>{name}</h1>
 									</Link>
 								))}
 							</Popover.Panel>
@@ -47,7 +47,7 @@ const Header: React.FC<Props> = (_props) => {
 				<div className="items-center space-x-2 px-4 hidden h-full sm:flex">
 					{navigation.map(({ name, href }) => (
 						<Link to={href} className="text-lg" activeClassName="underline">
-							<h2 className="text-xl">{name}</h2>
+							<h1 className="text-xl">{name}</h1>
 						</Link>
 					))}
 				</div>
