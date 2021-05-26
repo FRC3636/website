@@ -15,9 +15,13 @@ interface Props {}
 const Header: React.FC<Props> = (_props) => {
 	return (
 		<nav className="flex justify-between">
-			<div className="flex h-12 self-start items-center px-2 colors-dark dark:colors-light rounded-br">
-				<Logo />
-			</div>
+			<Link
+				to="/"
+				as="div"
+				className="flex h-12 self-start items-center px-2 nodefault colors-dark dark:colors-light rounded-br"
+			>
+				<Logo className="colors-dark dark:colors-light" />
+			</Link>
 
 			<div className="colors-dark dark:colors-light rounded-bl">
 				{/* Dropdown Menu */}
@@ -32,7 +36,7 @@ const Header: React.FC<Props> = (_props) => {
 								{navigation.map(({ name, href }) => (
 									<Link
 										to={href}
-										className="text-lg"
+										className="nodefault text-lg"
 										activeClassName="underline"
 									>
 										<h1>{name}</h1>
@@ -46,7 +50,11 @@ const Header: React.FC<Props> = (_props) => {
 				{/* Regular Menu */}
 				<div className="items-center space-x-2 px-4 hidden h-full sm:flex">
 					{navigation.map(({ name, href }) => (
-						<Link to={href} className="text-lg" activeClassName="underline">
+						<Link
+							to={href}
+							className="nodefault text-lg"
+							activeClassName="underline"
+						>
 							<h1 className="text-xl">{name}</h1>
 						</Link>
 					))}
