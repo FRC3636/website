@@ -5,7 +5,6 @@ module.exports = {
 		author: `Max Niederman`,
 	},
 	plugins: [
-		`gatsby-plugin-react-helmet`,
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
@@ -13,12 +12,49 @@ module.exports = {
 				path: `${__dirname}/src/images`,
 			},
 		},
-		"gatsby-plugin-postcss",
+		// {
+		//   resolve: `gatsby-source-filesystem`,
+		//   options: {
+		//     name: `pages`,
+		//     path: `${__dirname}/content/pages`,
+		//   },
+		// },
+		// {
+		//   resolve: `gatsby-source-filesystem`,
+		//   options: {
+		//     name: `members`,
+		//     path: `${__dirname}/content/members`,
+		//   },
+		// },
+		// {
+		//   resolve: `gatsby-source-filesystem`,
+		//   options: {
+		//     name: `competitions`,
+		//     path: `${__dirname}/content/competitions`,
+		//   },
+		// },
 		{
-			resolve: "gatsby-plugin-purgecss",
+			resolve: `gatsby-transformer-remark`,
+			options: {
+				plugins: [
+					// {
+					//   resolve: `gatsby-remark-images`,
+					//   options: {
+					//     maxWidth: 630,
+					//   },
+					// },
+					// `gatsby-remark-prismjs`,
+					// `gatsby-remark-copy-linked-files`,
+					// `gatsby-remark-smartypants`,
+				],
+			},
+		},
+		`gatsby-plugin-postcss`,
+		{
+			resolve: `gatsby-plugin-purgecss`,
 			options: {
 				tailwind: true,
-				purgeOnly: ["src/css/index.css"],
+				purgeOnly: [`src/css/index.css`],
 			},
 		},
 		`gatsby-plugin-typescript`,
@@ -36,12 +72,13 @@ module.exports = {
 				icon: `src/images/logo.png`,
 			},
 		},
+		`gatsby-plugin-react-helmet`,
 		{
-			resolve: "gatsby-plugin-eslint",
+			resolve: `gatsby-plugin-eslint`,
 			options: {
 				test: /\.ts$|\.tsx$/,
 				exclude: /(node_modules|.cache|public)/,
-				stages: ["develop", "build-javascript"],
+				stages: [`develop`, `build-javascript`],
 				options: {
 					emitWarning: true,
 					failOnError: false,
