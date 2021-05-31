@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../components/Layout";
+import Layout from "../layouts/TwoColumn.tsx";
 import SimpleSection from "../components/sections/Simple.tsx";
 import { AiOutlineRobot } from "react-icons/ai";
 import { BsCodeSlash } from "react-icons/bs";
