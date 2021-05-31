@@ -33,6 +33,7 @@ module.exports = {
 		//     path: `${__dirname}/content/competitions`,
 		//   },
 		// },
+    `gatsby-plugin-netlify-cms`,
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {

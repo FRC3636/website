@@ -2,7 +2,8 @@ import React from "react";
 import Layout from "../components/Layout";
 import SimpleSection from "../components/sections/Simple.tsx";
 import { AiOutlineRobot } from "react-icons/ai";
-import data from "../../content/index.yml";
+import { BsCodeSlash } from "react-icons/bs";
+import data from "../../content/home.yml";
 
 interface Props {}
 
@@ -26,12 +27,14 @@ const Visual: React.FC<{ name: string }> = ({ name }) => {
 	const vis = {
 		teamNumber: {
       content: (_) => "3636",
-			containerClasses: "transform -rotate-90",
+			containerClasses: ["transform", "-rotate-90"],
 		},
 		robot: {
 			content: AiOutlineRobot,
-			containerClasses: "",
 		},
+    code: {
+      content: BsCodeSlash,
+    },
 	}[name] ?? {
 		content: React.Fragment,
 		containerClasses: "",
@@ -39,7 +42,7 @@ const Visual: React.FC<{ name: string }> = ({ name }) => {
 
 	return (
 		<span
-			className={`self-center text-11xl font-serif ${vis.containerClasses}`}
+			className={`self-center text-11xl font-serif ${(vis.containerClasses ?? []).join(" ")}`}
 		>
 			<vis.content />
 		</span>
