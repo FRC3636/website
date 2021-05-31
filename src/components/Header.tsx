@@ -28,7 +28,7 @@ const Header: React.FC<Props> = (_props) => {
 				<Popover className="flex flex-col sm:hidden">
 					{({ open }) => (
 						<>
-							<Popover.Button className="ml-auto rounded-bl">
+							<Popover.Button className="ml-auto rounded-bl colors-dark dark:colors-light">
 								<Hamburger toggled={open} size={25} />
 							</Popover.Button>
 

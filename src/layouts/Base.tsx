@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 
-interface Props {}
+export interface Props {}
 
 const Layout: React.FC<Props> = ({ children }) => {
 	const data = useStaticQuery(graphql`

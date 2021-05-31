@@ -1,12 +1,14 @@
 import React from "react";
-import Base from "./Base.tsx";
+import Base, { Props as BaseProps } from "./Base.tsx";
 import Header from "../components/Header";
 
-interface Props {}
+interface Props extends BaseProps {}
 
-const Layout: React.FC<Props> = ({ children }) => {
+const Layout: React.FC<Props> = (props) => {
+  const { children } = props;
+
 	return (
-		<Base>
+		<Base {...props}>
 			<div className="fixed w-full">
 				<Header />
 			</div>
