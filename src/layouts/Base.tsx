@@ -6,7 +6,7 @@ export interface Props {}
 
 const Layout: React.FC<Props> = ({ children }) => {
 	const data = useStaticQuery(graphql`
-		query LayoutQuery {
+		query {
 			site {
 				siteMetadata {
 					title
@@ -18,7 +18,7 @@ const Layout: React.FC<Props> = ({ children }) => {
 	`);
 
 	return (
-		<div className="h-screen bg-white dark:bg-black">
+		<div className="min-h-screen bg-white dark:bg-black">
 			<Helmet>
 				<title>{data.site.siteMetadata.title}</title>
 				<meta name="description" content={data.site.siteMetadata.description} />

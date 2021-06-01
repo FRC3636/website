@@ -36,7 +36,6 @@ const Visual: React.FC<{ name: string }> = ({ name }) => {
     },
 	}[name] ?? {
 		content: React.Fragment,
-		containerClasses: "",
 	};
 
 	return (

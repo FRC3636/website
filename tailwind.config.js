@@ -1,4 +1,5 @@
 const colors = require("tailwindcss/colors");
+const { fontFamily } = require("tailwindcss/defaultTheme");
 
 module.exports = {
 	purge: ["public/**/*.html", "src/**/*.tsx"],
@@ -9,20 +10,63 @@ module.exports = {
 			current: "currentColor",
 			black: colors.coolGray[800],
 			white: colors.coolGray[50],
+      blue: colors.blue,
 		},
 		extend: {
 			fontFamily: {
-				sans: ["Karla", "ui-sans-serif", "system-ui", "sans-serif"],
-				serif: ["Spectral", "ui-serif"],
+				sans: ["Karla", ...fontFamily.sans],
+				serif: ["Spectral", ...fontFamily.serif],
 			},
 			fontSize: {
 				"10xl": "12rem",
 				"11xl": "16rem",
 			},
+      typography: (theme) => ({
+        DEFAULT: {
+          css: {
+            color: theme("colors.black"),
+            "h1,h2,h3,h4,h5,h6": {
+              color: theme("colors.black"),
+              fontFamily: theme("fontFamily.serif"),
+            },
+            strong: {
+              color: theme("colors.black"),
+            },
+            a: {
+              color: theme("colors.blue.700"),
+              "&:hover": {
+                color: theme("colors.blue.500"),
+              }
+            },
+          },
+        },
+
+        dark: {
+          css: {
+            color: theme("colors.white"),
+            "h1,h2,h3,h4,h5,h6": {
+              color: theme("colors.white"),
+            },
+            strong: {
+              color: theme("colors.white")
+            },
+            a: {
+              color: theme("colors.blue.400"),
+              "&:hover": {
+                color: theme("colors.blue.600"),
+              }
+            },
+          },
+        },
+      }),
 		},
 	},
 	variants: {
-		extend: {},
+    extend: {
+      typography: ["dark"],
+    },
 	},
-	plugins: [],
+  plugins: [
+    require("@tailwindcss/typography"),
+  ],
 };
