@@ -20,4 +20,15 @@ const Layout: React.FC<Props> = (props) => {
 	);
 };
 
+interface SectionProps {
+  className?: string;
+}
+export const Section: React.FC<SectionProps> = ({ children, className = "" }) => (
+	<div className={`flex flex-row justify-center items-center ${className}`}>
+		<div className="flex flex-col justify-center flex-1 my-24 mx-8 max-w-sm lg:max-w-md">
+			{children}
+		</div>
+	</div>
+);
+
 export default Layout;

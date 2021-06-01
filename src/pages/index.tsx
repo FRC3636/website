@@ -1,6 +1,5 @@
 import React from "react";
-import Layout from "../layouts/TwoColumn.tsx";
-import SimpleSection from "../components/sections/Simple.tsx";
+import Layout, { Section } from "../layouts/TwoColumn.tsx";
 import { AiOutlineRobot } from "react-icons/ai";
 import { BsCodeSlash } from "react-icons/bs";
 import data from "../../content/home.yml";
@@ -11,13 +10,13 @@ const Index: React.FC<Props> = (_props) => (
 	<Layout>
 		{data.sections.map(({ title, visual: visualName, content }) => (
 			<>
-				<SimpleSection className="hidden md:flex colors-dark dark:colors-light">
+				<Section className="hidden md:flex colors-dark dark:colors-light">
 					<Visual name={visualName} />
-				</SimpleSection>
-				<SimpleSection className="colors-light dark:colors-dark">
+				</Section>
+				<Section className="colors-light dark:colors-dark">
 					<h1 className="font-serif text-5xl my-2">{title}</h1>
 					<p className="leading-snug">{content}</p>
-				</SimpleSection>
+				</Section>
 			</>
 		))}
 	</Layout>
