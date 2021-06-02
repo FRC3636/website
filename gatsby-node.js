@@ -23,6 +23,14 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 		});
 		createNodeField({
 			node,
+			name: `type`,
+			value: {
+				pages: `page`,
+				members: `member`,
+			}[file.sourceInstanceName],
+		});
+		createNodeField({
+			node,
 			name: `template`,
 			value: {
 				pages: `./src/templates/page.tsx`,

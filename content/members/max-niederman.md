@@ -1,5 +1,5 @@
 ---
-title: "Max Niederman"
+name: "Max Niederman"
 position: "Programmer"
 links:
   - type: website

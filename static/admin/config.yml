@@ -38,9 +38,10 @@ collections:
     folder: "content/members"
     extension: md
     create: true
+    identifier_field: name
     slug: "{{slug}}"
     fields:
-      - { name: title, label: "Name", widget: string }
+      - { name: name, label: "Name", widget: string }
       - { name: body, label: "Biography", widget: markdown }
       - { name: position, label: "Position", widget: string }
       - name: links
