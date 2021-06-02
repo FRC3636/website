@@ -6,18 +6,18 @@ import Layout from "../layouts/Simple.tsx";
 interface Props {}
 
 const Page: React.FC<Props> = ({ data }) => {
-	const post = data.markdownRemark;
+	const { frontmatter, html } = data.markdownRemark;
 
 	return (
 		<Layout>
 			<Helmet>
-				<title>{post.frontmatter.title} | Grant Robotics</title>
+				<title>{frontmatter.title} | Grant Robotics</title>
 			</Helmet>
 
 			<div className="prose prose-xl dark:prose-dark max-w-prose py-32 mx-4 sm:mx-auto">
-				<h1>{post.frontmatter.title}</h1>
+				<h1>{frontmatter.title}</h1>
 				<hr />
-				<div dangerouslySetInnerHTML={{ __html: post.html }} />
+				<div dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
 		</Layout>
 	);

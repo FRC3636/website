@@ -26,13 +26,13 @@ module.exports = {
 				path: `${__dirname}/content/members`,
 			},
 		},
-		// {
-		//   resolve: `gatsby-source-filesystem`,
-		//   options: {
-		//     name: `competitions`,
-		//     path: `${__dirname}/content/competitions`,
-		//   },
-		// },
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `posts`,
+				path: `${__dirname}/content/posts`,
+			},
+		},
 		`gatsby-plugin-netlify-cms`,
 		{
 			resolve: `gatsby-transformer-remark`,

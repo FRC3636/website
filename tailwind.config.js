@@ -30,9 +30,9 @@ module.exports = {
 							fontFamily: "Spectral",
 							fontWeight: 400,
 						},
-            hr: {
-              borderColor: theme("colors.black")
-            },
+						hr: {
+							borderColor: theme("colors.black"),
+						},
 						strong: {
 							color: theme("colors.black"),
 						},
@@ -51,9 +51,9 @@ module.exports = {
 						"h1,h2,h3,h4,h5,h6": {
 							color: theme("colors.white"),
 						},
-            hr: {
-              borderColor: theme("colors.white"),
-            },
+						hr: {
+							borderColor: theme("colors.white"),
+						},
 						strong: {
 							color: theme("colors.white"),
 						},

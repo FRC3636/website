@@ -14,6 +14,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 				{
 					pages: `/`,
 					members: `/members`,
+					posts: `/blog`,
 				}[file.sourceInstanceName],
 				createFilePath({
 					node,
@@ -27,7 +28,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 			value: {
 				pages: `page`,
 				members: `member`,
+				posts: `post`,
 			}[file.sourceInstanceName],
+		});
+		createNodeField({
+			node,
+			name: `creationTime`,
+			value: file.birthtimeMs,
 		});
 		createNodeField({
 			node,
@@ -35,6 +42,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 			value: {
 				pages: `./src/templates/page.tsx`,
 				members: `./src/templates/member.tsx`,
+				posts: `./src/templates/post.tsx`,
 			}[file.sourceInstanceName],
 		});
 	}

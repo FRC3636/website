@@ -17,7 +17,8 @@ const linkTypes = {
 		label: () => "GitHub",
 		url: () => (
 			<>
-				<FaGithub className="inline" />{new URL(url).pathname}
+				<FaGithub className="inline" />
+				{new URL(url).pathname}
 			</>
 		),
 		icon: FaGithub,

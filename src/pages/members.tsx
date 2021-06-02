@@ -28,8 +28,10 @@ const Members: React.FC<Props> = ({ data }) => {
 				{[...members.entries()].map(([position, members]) => (
 					<div key={position}>
 						<h2>{position}</h2>
-            
-          {members.map(({ name, slug }) => <Link to={slug}>{name}</Link>)}
+
+						{members.map(({ name, slug }) => (
+							<Link to={slug}>{name}</Link>
+						))}
 					</div>
 				))}
 			</div>

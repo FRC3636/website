@@ -7,7 +7,7 @@ import Logo from "./Logo";
 const navigation = [
 	{ name: "About", href: "/about" },
 	{ name: "Members", href: "/members" },
-	{ name: "Competitions", href: "/competitions" },
+	{ name: "Blog", href: "/blog" },
 ];
 
 interface Props {}
