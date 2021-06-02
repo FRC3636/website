@@ -30,7 +30,7 @@ const Members: React.FC<Props> = ({ data }) => {
 						<h2>{position}</h2>
 
 						{members.map(({ name, slug }) => (
-							<Link to={slug}>{name}</Link>
+							<Link to={slug} class="nodefault underline">{name}</Link>
 						))}
 					</div>
 				))}
