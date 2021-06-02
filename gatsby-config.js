@@ -12,20 +12,20 @@ module.exports = {
 				path: `${__dirname}/src/images`,
 			},
 		},
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `pages`,
-        path: `${__dirname}/content/pages`,
-      },
-    },
-    // {
-		//   resolve: `gatsby-source-filesystem`,
-		//   options: {
-		//     name: `members`,
-		//     path: `${__dirname}/content/members`,
-		//   },
-		// },
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `pages`,
+				path: `${__dirname}/content/pages`,
+			},
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `members`,
+				path: `${__dirname}/content/members`,
+			},
+		},
 		// {
 		//   resolve: `gatsby-source-filesystem`,
 		//   options: {
@@ -33,13 +33,13 @@ module.exports = {
 		//     path: `${__dirname}/content/competitions`,
 		//   },
 		// },
-    `gatsby-plugin-netlify-cms`,
+		`gatsby-plugin-netlify-cms`,
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
 				plugins: [
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
+					`gatsby-remark-copy-linked-files`,
+					`gatsby-remark-smartypants`,
 				],
 			},
 		},

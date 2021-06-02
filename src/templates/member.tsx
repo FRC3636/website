@@ -1,0 +1,48 @@
+import React from "react";
+import { graphql } from "gatsby";
+import Layout from "../layouts/Simple.tsx";
+import LinkCard from "../components/LinkCard.tsx";
+
+interface Props {}
+
+const Member: React.FC<Props> = ({ data }) => {
+	const post = data.markdownRemark;
+
+	return (
+		<Layout>
+			<div className="max-w-prose py-32 mx-4 sm:mx-auto">
+				<h1 className="mb-12 text-black dark:text-white font-serif text-6xl">
+					{post.frontmatter.title}
+				</h1>
+
+				<div class="grid grid-cols-1 md:grid-cols-2 auto-rows-min gap-3 my-8">
+					{post.frontmatter.links.map(({ type, url }) => (
+						<LinkCard linkType={type} url={url} />
+					))}
+				</div>
+
+				<div
+					className="prose prose-xl dark:prose-dark"
+					dangerouslySetInnerHTML={{ __html: post.html }}
+				/>
+			</div>
+		</Layout>
+	);
+};
+
+export const query = graphql`
+	query ($id: String!) {
+		markdownRemark(id: { eq: $id }) {
+			frontmatter {
+				title
+				links {
+					type
+					url
+				}
+			}
+			html
+		}
+	}
+`;
+
+export default Member;

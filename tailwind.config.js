@@ -2,7 +2,7 @@ const colors = require("tailwindcss/colors");
 const { fontFamily } = require("tailwindcss/defaultTheme");
 
 module.exports = {
-	purge: ["public/**/*.html", "src/**/*.tsx"],
+	purge: ["public/**/*.html", "src/**/*.tsx", "content/**/*.md"],
 	darkMode: "media",
 	theme: {
 		colors: {
@@ -10,7 +10,7 @@ module.exports = {
 			current: "currentColor",
 			black: colors.coolGray[800],
 			white: colors.coolGray[50],
-      blue: colors.blue,
+			blue: colors.blue,
 		},
 		extend: {
 			fontFamily: {
@@ -21,52 +21,51 @@ module.exports = {
 				"10xl": "12rem",
 				"11xl": "16rem",
 			},
-      typography: (theme) => ({
-        DEFAULT: {
-          css: {
-            color: theme("colors.black"),
-            "h1,h2,h3,h4,h5,h6": {
-              color: theme("colors.black"),
-              fontFamily: theme("fontFamily.serif"),
-            },
-            strong: {
-              color: theme("colors.black"),
-            },
-            a: {
-              color: theme("colors.blue.700"),
-              "&:hover": {
-                color: theme("colors.blue.500"),
-              }
-            },
-          },
-        },
+			typography: (theme) => ({
+				DEFAULT: {
+					css: {
+						color: theme("colors.black"),
+						"h1,h2,h3,h4,h5,h6": {
+							color: theme("colors.black"),
+							fontFamily: "Spectral",
+							fontWeight: 400,
+						},
+						strong: {
+							color: theme("colors.black"),
+						},
+						a: {
+							color: theme("colors.blue.700"),
+							"&:hover": {
+								color: theme("colors.blue.500"),
+							},
+						},
+					},
+				},
 
-        dark: {
-          css: {
-            color: theme("colors.white"),
-            "h1,h2,h3,h4,h5,h6": {
-              color: theme("colors.white"),
-            },
-            strong: {
-              color: theme("colors.white")
-            },
-            a: {
-              color: theme("colors.blue.400"),
-              "&:hover": {
-                color: theme("colors.blue.600"),
-              }
-            },
-          },
-        },
-      }),
+				dark: {
+					css: {
+						color: theme("colors.white"),
+						"h1,h2,h3,h4,h5,h6": {
+							color: theme("colors.white"),
+						},
+						strong: {
+							color: theme("colors.white"),
+						},
+						a: {
+							color: theme("colors.blue.400"),
+							"&:hover": {
+								color: theme("colors.blue.600"),
+							},
+						},
+					},
+				},
+			}),
 		},
 	},
 	variants: {
-    extend: {
-      typography: ["dark"],
-    },
+		extend: {
+			typography: ["dark"],
+		},
 	},
-  plugins: [
-    require("@tailwindcss/typography"),
-  ],
+	plugins: [require("@tailwindcss/typography")],
 };

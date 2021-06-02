@@ -1,3 +1,4 @@
+const path = require("path");
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
@@ -9,19 +10,23 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 		createNodeField({
 			node,
 			name: `slug`,
-			value: createFilePath({
-				node,
-				getNode,
-				basePath: {
-					pages: ``,
+			value: path.join(
+				{
+					pages: `/`,
+					members: `/members`,
 				}[file.sourceInstanceName],
-			}),
+				createFilePath({
+					node,
+					getNode,
+				})
+			),
 		});
 		createNodeField({
 			node,
 			name: `template`,
 			value: {
 				pages: `./src/templates/page.tsx`,
+				members: `./src/templates/member.tsx`,
 			}[file.sourceInstanceName],
 		});
 	}

@@ -22,6 +22,7 @@ collections:
               - { name: title, label: "Title", widget: string }
               - { name: visual, label: "Visual", widget: string }
               - { name: content, label: "Content", widget: string }
+
   - name: pages
     label: "Pages"
     folder: "content/pages"
@@ -31,3 +32,19 @@ collections:
     fields:
       - { name: title, label: "Title", widget: string }
       - { name: body, label: "Body", widget: markdown }
+
+  - name: members
+    label: "Members"
+    folder: "content/members"
+    extension: md
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: "Name", widget: string }
+      - { name: body, label: "Biography", widget: markdown }
+      - name: links
+        label: "Links"
+        widget: list
+        fields:
+          - { name: type, label: "Type", widget: select, options: ["website"] }
+          - { name: url, label: "URL", widget: string, pattern: ["^(([^:/?#]+):)?(//([^/?#]*))?([^?#]*)(\?([^#]*))?(#(.*))?", "Must be a valid URL."] }

@@ -6,7 +6,7 @@ import Logo from "./Logo";
 
 const navigation = [
 	{ name: "About", href: "/about" },
-	{ name: "Robots", href: "/robots" },
+	{ name: "Members", href: "/members" },
 	{ name: "Competitions", href: "/competitions" },
 ];
 

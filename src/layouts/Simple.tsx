@@ -5,7 +5,7 @@ import Header from "../components/Header";
 interface Props extends BaseProps {}
 
 const Layout: React.FC<Props> = (props) => {
-  const { children } = props;
+	const { children } = props;
 
 	return (
 		<Base {...props}>
@@ -13,9 +13,7 @@ const Layout: React.FC<Props> = (props) => {
 				<Header />
 			</div>
 
-			<div className="h-full">
-				{children}
-			</div>
+			<div className="h-full">{children}</div>
 		</Base>
 	);
 };

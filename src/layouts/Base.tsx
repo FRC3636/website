@@ -25,7 +25,7 @@ const Layout: React.FC<Props> = ({ children }) => {
 				<meta name="author" content={data.site.siteMetadata.author} />
 			</Helmet>
 
-      {children}
+			{children}
 		</div>
 	);
 };
