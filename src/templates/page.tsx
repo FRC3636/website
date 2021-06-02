@@ -1,5 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
+import Helmet from "react-helmet";
 import Layout from "../layouts/Simple.tsx";
 
 interface Props {}
@@ -9,6 +10,10 @@ const Page: React.FC<Props> = ({ data }) => {
 
 	return (
 		<Layout>
+      <Helmet>
+        <title>{post.frontmatter.title} | Grant Robotics</title>
+      </Helmet>
+
 			<div className="prose prose-xl dark:prose-dark max-w-prose py-32 mx-4 sm:mx-auto">
 				<h1>{post.frontmatter.title}</h1>
 				<hr />
