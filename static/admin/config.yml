@@ -49,14 +49,17 @@ collections:
         widget: list
         fields:
           - { name: type, label: "Type", widget: select, options: ["website"] }
-          - { name: url, label: "URL", widget: string, pattern: ["^(([^:/?#]+):)?(//([^/?#]*))?([^?#]*)(\?([^#]*))?(#(.*))?", "Must be a valid URL."] }
+          - { name: url, label: "URL", widget: string }
 
   - name: posts
     label: "Blog Posts"
     folder: "content/posts"
     extension: md
     create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
     fields:
       - { name: title, label: "Title", widget: string }
       - { name: date, label: "Date", widget: datetime, time_format: false, date_format: "MM.DD.YYYY" }
