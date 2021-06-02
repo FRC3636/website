@@ -13,7 +13,7 @@ const Members: React.FC<Props> = ({ data }) => {
 			</Helmet>
 
 			<div className="max-w-prose py-32 mx-4 sm:mx-auto text-xl text-black dark:text-white">
-				<div className="prose prose-xl dark:prose-dark my-12">
+				<div className="prose prose-xl dark:prose-dark mb-12">
 					<h1>Blog Posts</h1>
 					<hr />
 				</div>
