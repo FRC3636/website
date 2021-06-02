@@ -1,5 +1,6 @@
 import React from "react";
 import { BiGlobe } from "react-icons/bi";
+import { FaGithub } from "react-icons/fa";
 
 interface Props {
 	linkType: string;
@@ -11,6 +12,15 @@ const linkTypes = {
 		label: () => "Website",
 		url: () => url,
 		icon: BiGlobe,
+	}),
+	github: (url) => ({
+		label: () => "GitHub",
+		url: () => (
+			<>
+				<FaGithub className="inline" />{new URL(url).pathname}
+			</>
+		),
+		icon: FaGithub,
 	}),
 };
 
@@ -25,7 +35,7 @@ const LinkCard: React.FC<Props> = ({ linkType, url }) => {
 					<p className="text-xl font-bold font-serif">
 						<link.label />
 					</p>
-					<p className="underline text-sm">
+					<p className="underline text-base">
 						<link.url />
 					</p>
 				</div>

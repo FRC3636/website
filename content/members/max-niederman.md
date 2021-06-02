@@ -4,6 +4,8 @@ position: "Programmer"
 links:
   - type: website
     url: "https://maxniederman.com"
+  - type: github
+    url: "https://github.com/max-niederman"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus in metus vulputate eu. Nunc faucibus a pellentesque sit amet porttitor eget dolor. Dictum varius duis at consectetur lorem donec. Pulvinar mattis nunc sed blandit libero volutpat sed cras. In hac habitasse platea dictumst. Egestas sed sed risus pretium quam. Magna fringilla urna porttitor rhoncus dolor purus non. Dolor morbi non arcu risus quis varius. Cursus mattis molestie a iaculis at erat pellentesque. Nunc non blandit massa enim nec dui nunc. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Scelerisque eleifend donec pretium vulputate. Nunc sed velit dignissim sodales ut. Dolor sit amet consectetur adipiscing elit ut aliquam purus.
