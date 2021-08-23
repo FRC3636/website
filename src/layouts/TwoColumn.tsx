@@ -23,6 +23,7 @@ const Layout: React.FC<Props> = (props) => {
 interface SectionProps {
 	className?: string;
 }
+
 export const Section: React.FC<SectionProps> = ({
 	children,
 	className = "",

@@ -13,7 +13,7 @@ const Index: React.FC<Props> = (_props) => (
 				<Section className="hidden md:flex colors-dark dark:colors-light">
 					<Visual name={visualName} />
 				</Section>
-				<Section className="colors-light dark:colors-dark">
+				<Section className="colors-light dark:colors-dark text-lg">
 					<h1 className="font-serif text-5xl my-4">{title}</h1>
 					<p className="leading-snug">{content}</p>
 				</Section>
@@ -25,7 +25,7 @@ const Index: React.FC<Props> = (_props) => (
 const Visual: React.FC<{ name: string }> = ({ name }) => {
 	const vis = {
 		teamNumber: {
-			content: (_) => "3636",
+      content: (_) => <>3636</>,
 			containerClasses: ["transform", "-rotate-90"],
 		},
 		robot: {
