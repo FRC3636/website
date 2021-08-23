@@ -9,7 +9,7 @@ interface Props {}
 const Index: React.FC<Props> = (_props) => (
 	<Layout>
 		{data.sections.map(({ title, visual: visualName, content }) => (
-			<>
+			<React.Fragment key={title}>
 				<Section className="hidden md:flex colors-dark dark:colors-light">
 					<Visual name={visualName} />
 				</Section>
@@ -17,7 +17,7 @@ const Index: React.FC<Props> = (_props) => (
 					<h1 className="font-serif text-5xl my-4">{title}</h1>
 					<p className="leading-snug">{content}</p>
 				</Section>
-			</>
+			</React.Fragment>
 		))}
 	</Layout>
 );
