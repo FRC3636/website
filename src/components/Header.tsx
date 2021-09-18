@@ -3,12 +3,7 @@ import { Link } from "gatsby";
 import { Popover } from "@headlessui/react";
 import { Divide as Hamburger } from "hamburger-react";
 import Logo from "./Logo";
-
-const navigation = [
-	{ name: "About", href: "/about" },
-	{ name: "Members", href: "/members" },
-	{ name: "Blog", href: "/blog" },
-];
+import navigation from "../../content/navigation.yml";
 
 interface Props {}
 
@@ -33,13 +28,13 @@ const Header: React.FC<Props> = (_props) => {
 							</Popover.Button>
 
 							<Popover.Panel className="relative flex flex-col items-end justify-between p-4 w-full">
-								{navigation.map(({ name, href }) => (
+								{navigation.map(({ title, url }) => (
 									<Link
-										to={href}
+										to={url}
 										className="nodefault text-lg"
 										activeClassName="underline"
 									>
-										<h1>{name}</h1>
+										<h1>{title}</h1>
 									</Link>
 								))}
 							</Popover.Panel>
@@ -49,13 +44,13 @@ const Header: React.FC<Props> = (_props) => {
 
 				{/* Regular Menu */}
 				<div className="items-center space-x-2 px-4 hidden h-full sm:flex">
-					{navigation.map(({ name, href }) => (
+					{navigation.map(({ title, url }) => (
 						<Link
-							to={href}
+							to={url}
 							className="nodefault text-lg"
 							activeClassName="underline"
 						>
-							<h1 className="text-xl">{name}</h1>
+							<h1 className="text-xl">{title}</h1>
 						</Link>
 					))}
 				</div>

@@ -81,4 +81,8 @@ module.exports = {
 		},
 		`gatsby-plugin-offline`,
 	],
+  flags: {
+    FAST_DEV: true,
+    PARALLEL_SOURCING: true,
+  }
 };
