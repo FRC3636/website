@@ -28,7 +28,7 @@ collections:
     files:
       - name: default
         label: "Default Navigation"
-        file: "content/navigation/default.yml"
+        file: "content/navigation.yml"
         fields:
           - name: items
             label: "Items"
