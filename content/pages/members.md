@@ -1,7 +1,12 @@
 ---
-title: "Team Members"
+title: Team Members
 ---
+## Leadership:
 
-## Programmers
 
-[Max Niederman](/members/max-niederman) lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
+
+## **Website Manager:**
+
+[Max Niederman](/members/max-niederman)
