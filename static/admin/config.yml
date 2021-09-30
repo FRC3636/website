@@ -55,9 +55,10 @@ collections:
     identifier_field: name
     slug: "{{slug}}"
     fields:
-      - { name: name, label: "Name", widget: string }
+      - { name: title, label: "Name", widget: string }
       - { name: body, label: "Biography", widget: markdown }
       - { name: position, label: "Position", widget: string }
+      - { name: pronouns, label: "Pronouns", widget: string }
       - name: links
         label: "Links"
         widget: list

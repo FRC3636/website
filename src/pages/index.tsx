@@ -35,7 +35,7 @@ const Visual: React.FC<{ name: string }> = ({ name }) => {
 			content: BsCodeSlash,
 		},
 	}[name] ?? {
-    content: (_) => <span dangerouslySetInnerHTML={{ __html: name }} />,
+    content: (_: any) => <span dangerouslySetInnerHTML={{ __html: name }} />,
 	};
 
 	return (
