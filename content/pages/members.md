@@ -3,6 +3,8 @@ title: Team Members
 ---
 ## Leadership
 
+Please contact ghsrobotics3636@gmail.com to reach the leads listed below.
+
 ### Captains
 
 [Charlie Becker](/members/charlie-becker) and [Peter Morrison](/members/peter-morrison) co-captain the team.
