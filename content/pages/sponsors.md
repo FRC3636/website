@@ -5,7 +5,7 @@ Robotics is a wonderful and engaging experience. Funding plays a key role in ens
 
 ## Interested in sponsoring us?
 
-Shoot us an email at ghsrobotics3636@gmail.com. State your business, any questions you have, and your preferred method of contact. 
+Shoot us an email at ghsrobotics3636@gmail.com. Tell us about your business, any questions you have, and your preferred method of contact. 
 
 ## Current Sponsors
 
