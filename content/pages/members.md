@@ -1,9 +1,7 @@
 ---
 title: Team Members
 ---
-## Leadership
-
-Please contact ghsrobotics3636@gmail.com to reach the leads listed below.
+## Our Team
 
 ### Captains
 
@@ -15,3 +13,5 @@ Please contact ghsrobotics3636@gmail.com to reach the leads listed below.
 * Programming: [Silas Gagnon](/members/silas-gagnon)
 * Business, Marketing, and Outreach: [Zee Camp](/members/zee-camp), [Wren Grabham](/members/wren-grabham)
 * Website: [Max Niederman](/members/max-niederman) (contact if there are issues)
+
+Please contact ghsrobotics3636@gmail.com to reach the leads listed above
