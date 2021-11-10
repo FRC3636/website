@@ -1,7 +1,7 @@
 ---
-title: Team Members
+title: Our Team
 ---
-## Our Team
+
 
 ### Captains
 
