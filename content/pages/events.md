@@ -1,7 +1,7 @@
 ---
 title: Events
 ---
-# Performance in recent events:
+# Performance in recent events
 
 [2022 Competition Season Results](https://frc-events.firstinspires.org/2022/team/3636)
 
