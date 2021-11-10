@@ -1,11 +1,17 @@
 ---
 title: Events
 ---
-## 10-2021 “Storm Surge” 
+## Performance in recent events:
+
+[2022 Competition Season Results](https://frc-events.firstinspires.org/2022/team/3636)
+
+
+
+## 10-2021 “Storm Surge”
 
 We ranked 1st in qualification matches, making us the 1st seed alliance captain. We went on to pick a powerful alliance and won the event with an undefeated playoffs. Our robot worked throughout the whole event, and our drive team performed great in every match.
 
-## 10-2021 “Robot Rodeo” 
+## 10-2021 “Robot Rodeo”
 
 We ranked 4th in qualification matches, and were captains of the 4th alliance. We finished the event as a semifinalist in eliminations. We struggled with our climb mechanism throughout the event, but by the end we finally got it working and were able to climb several times. Our new drivers performed well and showed lots of potential. 
 
