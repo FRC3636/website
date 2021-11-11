@@ -3,4 +3,4 @@ title: Charlie Becker
 position: Co-captain
 pronouns: They/Them
 ---
-Howdy! I am Charlie Becker, one of the Co-captains of the robotics team. During build season you will see me working on CAD, and filling in where needed. Nice to meet you!
+As one of the Co-captains this year, Charlie oversees and facilitates our weekly meetings. When they're not busy leading meetings, you'll often find them leading a group of students in robot design. During the season, you'll find them working on CAD
