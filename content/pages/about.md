@@ -5,4 +5,6 @@ title: About Our Team
 
 Our team began in 2011, as a way to bring STEM into our shcool.
 
-[Join Robotics](/get-involved)
+links:
+  - type: website
+    url: https://ghsrobo.com/get-involved
