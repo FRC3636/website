@@ -1,6 +1,8 @@
 ---
 title: Wren Grabham
 position: Business Manager
-pronouns: she/her
+pronouns: She/Her
 ---
-Hello! I am the business  manager of the robotics team. I am a high school sophomore, and have been on the team for 2 years now.
+
+
+Wren Grabham is our business manager. During meetings you can often find her in the back of the room, making sure the business team is being as efficient as possible. During the season, she is a part of drive team, mostly as an operator. Wren is a sophomore and has been on the team since her freshman year. Outside of school,
