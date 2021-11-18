@@ -1,22 +1,17 @@
 ---
-title: "Max Niederman"
-position: "Programmer"
+title: Max Niederman
+position: Programmer
+pronouns: he/him
 links:
   - type: website
-    url: "https://maxniederman.com"
+    url: https://maxniederman.com
   - type: github
-    url: "https://github.com/max-niederman"
-pronouns: "he/him"
+    url: https://github.com/max-niederman
 ---
+Max Niderman designed this website. He's been on the team since he was a freshman, but because of COVID-19, he was unable to get experience programming robots. During the week, you can find him working with the programming team.This year he hopes learn more about programming robots. Contact him if you experience any issues with our website.
 
-I'm a sophomore and I'm on the programming team. I work on the robot, but I also designed and built this website.
-
-I've been on the team since I was a freshman, but there was no competition that year, so I have little experience programming robots, but I'm excited to learn.
-
-## Contact
-
-- E-mail: [max@maxniederman.com](mailto://max@maxniederman.com)
-- Discord: "Aquild#0001"
+* E-mail: [max@maxniederman.com](mailto://max@maxniederman.com)
+* Discord: "Aquild#0001"
 
 ### PGP Public Key
 
