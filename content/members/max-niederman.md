@@ -1,7 +1,7 @@
 ---
 title: Max Niederman
 position: Programmer
-pronouns: he/him
+pronouns: He/Him
 links:
   - type: website
     url: https://maxniederman.com
