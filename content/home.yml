@@ -1,13 +1,15 @@
 sections:
   - title: Generals Robotics, Team 3636
     visual: teamNumber
-    content: "Howdy! We are generals robotics team 3636. Welcome to our website!  We
-      are a student-led robotics team based out of  Grant High School in
-      Portland, Oregon. We have been competeing in FIRST Robotics Competition
-      (FRC), a world wide highschool robotics competition, for the past 11
-      years. Starting January, our team has six weeks to plan, design, and build
-      a working robot to take to competitions. We are focused on having students
-      learn STEM hands on, and gain real industry experience.  "
+    content: "We are Generals Robotics Team 3636. We are a team of dedicated high
+      school students from Grant High School, in Portland, OR.  For the past 11
+      years, our team has competed in First Robotics Competitions (FRC).
+      Starting January, our team has six weeks to plan, design, and build a
+      working robot to take to competitions. Even while working with time
+      constraints, strict guidelines, and tight budgets, we are able to turn out
+      an advanced piece of machinery every year. Through hard work, dedication,
+      and community support we are able to turn out a highly competitive robot
+      every year. "
   - title: Contact Us
     visual: robot
     content: Please send all inquiries to ghsrobotics3636@gmail.com. We look forward
