@@ -72,3 +72,6 @@ yarn-error.log
 .vim
 .nvim
 .vim/
+
+# Direnv
+.direnv
