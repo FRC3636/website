@@ -7,3 +7,7 @@ a, a:active, a:visited {
   color: inherit;
   text-decoration: inherit;
 }
+
+img {
+  width: 100%;
+}
