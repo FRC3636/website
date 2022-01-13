@@ -52,8 +52,6 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-typescript`,
-		`gatsby-transformer-sharp`,
-		`gatsby-plugin-sharp`,
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
@@ -63,7 +61,7 @@ module.exports = {
 				background_color: `#F9FAFB`,
 				theme_color: `#1F2937`,
 				display: `minimal-ui`,
-				icon: `src/images/logo.png`,
+				icon: `src/images/logo.svg`,
 			},
 		},
 		`gatsby-plugin-react-helmet`,
@@ -81,8 +79,8 @@ module.exports = {
 		},
 		`gatsby-plugin-offline`,
 	],
-  flags: {
-    FAST_DEV: true,
-    PARALLEL_SOURCING: true,
-  }
+	flags: {
+		FAST_DEV: true,
+		PARALLEL_SOURCING: true,
+	}
 };

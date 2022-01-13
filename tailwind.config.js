@@ -42,6 +42,9 @@ module.exports = {
 								color: theme("colors.blue.500"),
 							},
 						},
+						img: {
+							width: "100%",
+						},
 					},
 				},
 

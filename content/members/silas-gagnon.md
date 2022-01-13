@@ -1,6 +1,7 @@
 ---
 title: Silas Gagnon
-position: Programming team lead
-pronouns: he / him
+position: Programming Lead
+pronouns: He/Him
 ---
-Hi, I am Silas Gagnon
+
+Hi, I am Silas Gagnon.

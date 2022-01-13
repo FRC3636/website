@@ -1,9 +1,21 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Helmet from "react-helmet";
-import Layout from "../layouts/Simple.tsx";
+import Layout from "../layouts/Simple";
 
-interface Props {}
+interface Props {
+	data: {
+		markdownRemark: {
+			frontmatter: {
+				title: string;
+				author: string;
+				date: string;
+			};
+			html: string;
+			timeToRead: number;
+		};
+	};
+}
 
 const Post: React.FC<Props> = ({ data }) => {
 	const { frontmatter, html, timeToRead } = data.markdownRemark;
@@ -17,9 +29,10 @@ const Post: React.FC<Props> = ({ data }) => {
 			<div className="max-w-prose text-xl py-32 mx-4 sm:mx-auto">
 				<div className="mb-12 text-black dark:text-white">
 					<h1 className="mb-2 font-serif text-6xl">{frontmatter.title}</h1>
-					<span className="text-xl italic">
-						{frontmatter.date} &mdash; {timeToRead} Minute Read
-					</span>
+					<p className="text-xl italic">
+						{frontmatter.author} &mdash; {frontmatter.date} &mdash; {timeToRead}{" "}
+						Minute Read
+					</p>
 				</div>
 
 				<div className="prose prose-xl dark:prose-dark">
@@ -36,6 +49,7 @@ export const query = graphql`
 		markdownRemark(id: { eq: $id }) {
 			frontmatter {
 				title
+				author
 				date
 			}
 			html

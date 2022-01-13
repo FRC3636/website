@@ -8,10 +8,11 @@ links:
   - type: github
     url: https://github.com/max-niederman
 ---
-Max Niderman designed this website. He's been on the team since he was a freshman, but because of COVID-19, he was unable to get experience programming robots. During the week, you can find him working with the programming team.This year he hopes learn more about programming robots. Contact him if you experience any issues with our website.
 
-* E-mail: [max@maxniederman.com](mailto://max@maxniederman.com)
-* Discord: "Aquild#0001"
+Max Niederman designed this website. He's been on the team since he was a freshman, but because of COVID-19, he was unable to get experience programming robots. During the week, you can find him working with the programming team.This year he hopes learn more about programming robots. Contact him if you experience any issues with our website.
+
+- E-mail: [max@maxniederman.com](mailto://max@maxniederman.com)
+- Discord: "Aquild#0001"
 
 ### PGP Public Key
 
