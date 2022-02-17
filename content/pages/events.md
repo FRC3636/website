@@ -5,6 +5,10 @@ title: Events
 
 [2022 Competition Season Results](https://frc-events.firstinspires.org/2022/team/3636)
 
+## 12-2021 “Outdoor Bunnybots”
+
+We ended the day mid-pack and were selected for an alliance where our robot performed well. A decision to remove the front bumper improved ball scoring abilities. An accidental e-stop disabled our robot for the final match but I think we were all happy to pack up a bit early and get out of the dumping rain:) 
+
 ## 10-2021 “Storm Surge”
 
 We ranked 1st in qualification matches, making us the 1st seed alliance captain. We went on to pick a powerful alliance and won the event with an undefeated playoffs. Our robot worked throughout the whole event, and our drive team performed great in every match.
