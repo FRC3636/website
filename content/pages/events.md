@@ -5,6 +5,8 @@ title: Events
 
 [2022 Competition Season Results](https://frc-events.firstinspires.org/2022/team/3636)
 
+
+
 ## 12-2021 “Outdoor Bunnybots”
 
 We ended the day mid-pack and were selected for an alliance where our robot performed well. A decision to remove the front bumper improved ball scoring abilities. An accidental e-stop disabled our robot for the final match but I think we were all happy to pack up a bit early and get out of the dumping rain:) 
