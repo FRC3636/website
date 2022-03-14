@@ -5,7 +5,7 @@ title: Events
 
 [2022 Competition Season Results](https://frc-events.firstinspires.org/2022/team/3636)
 
-## 3-11,12 2022 “Wilsonville”
+## 3-11,12 2022 “PNW District Wilsonville Event (Week 2)”
 
 This competition was our most successful in-season event ever. We spent the qualification matches in a close race for first with two other powerhouse teams and ranked in 3rd after some unexpected issues during the matches. We were the captains of the second ranked alliance alongside our first pick, team 1540 from Catlin Gabel and our second pick team 568 Nerds of the North from Alaska. We made it to the finals and forced a tiebreaker with some of the highest scores of the event with the other alliance barely winning out. 
 
