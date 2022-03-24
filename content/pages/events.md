@@ -1,11 +1,21 @@
 ---
 title: Events
 ---
-# Performance in recent events
+# Event Information
 
-[2022 Competition Season Results](https://frc-events.firstinspires.org/2022/team/3636)
+[2022 Competition Season Results Overview](https://frc-events.firstinspires.org/2022/team/3636) 
+
+## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
+
+[Event Schedule](https://drive.google.com/file/d/1R8lts-gLlngEpz8RPVEyq6QZCyJcrV_T/view)
+
+[Blue Alliance Stats and Livestream ](https://www.thebluealliance.com/event/2022orsal)
 
 ## 3-11,12 2022 “PNW District Wilsonville Event (Week 2)”
+
+[Blue Alliance Stats and Match Videos](https://www.thebluealliance.com/event/2022orwil)
+
+[Event Photos](https://photos.app.goo.gl/9nZB4iAVMriENLE56)
 
 This competition was our most successful in-season event ever. We spent the qualification matches in a close race for first with two other powerhouse teams and ranked in 3rd after some unexpected issues during the matches. We were the captains of the second ranked alliance alongside our first pick, team 1540 from Catlin Gabel and our second pick team 568 Nerds of the North from Alaska. We made it to the finals and forced a tiebreaker with some of the highest scores of the event with the other alliance barely winning out. 
 
