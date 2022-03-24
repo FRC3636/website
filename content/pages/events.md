@@ -13,6 +13,8 @@ title: Events
 
 [Event Schedule](https://drive.google.com/file/d/1R8lts-gLlngEpz8RPVEyq6QZCyJcrV_T/view)
 
+Match Schedule (TBD - Link updated prior to first match)
+
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
 [Blue Alliance Stats and Livestream ](https://www.thebluealliance.com/event/2022orsal)
