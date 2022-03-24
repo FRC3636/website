@@ -3,6 +3,8 @@ title: Events
 ---
 # Event Information
 
+[2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
+
 [2022 Competition Season Results Overview](https://frc-events.firstinspires.org/2022/team/3636) 
 
 [PNW District Rankings](https://frc-events.firstinspires.org/2022/district/PNW#rankings)
