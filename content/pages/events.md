@@ -5,9 +5,15 @@ title: Events
 
 [2022 Competition Season Results Overview](https://frc-events.firstinspires.org/2022/team/3636) 
 
+[PNW District Rankings](https://frc-events.firstinspires.org/2022/district/PNW#rankings)
+
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
+[Directions to Event Venue](https://maps.google.com/maps?ll=44.957976,-123.009372&z=16&t=m&hl=en&gl=US&mapclient=embed&q=2330%2017th%20St%20NE%20Salem%2C%20OR%2097301)
+
 [Event Schedule](https://drive.google.com/file/d/1R8lts-gLlngEpz8RPVEyq6QZCyJcrV_T/view)
+
+[Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
 [Blue Alliance Stats and Livestream ](https://www.thebluealliance.com/event/2022orsal)
 
