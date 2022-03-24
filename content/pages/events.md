@@ -5,7 +5,7 @@ title: Events
 
 [2022 Competition Season Results Overview](https://frc-events.firstinspires.org/2022/team/3636) 
 
-## 3-25,26 2022 “PNW District Fairgrounds Event (Week 4)”
+## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
 [Event Schedule](https://drive.google.com/file/d/1R8lts-gLlngEpz8RPVEyq6QZCyJcrV_T/view)
 
