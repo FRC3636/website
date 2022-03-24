@@ -7,6 +7,8 @@ title: Events
 
 [PNW District Rankings](https://frc-events.firstinspires.org/2022/district/PNW#rankings)
 
+[Open Alliance Weekly Updates + Photos](https://linktr.ee/Generals3636)
+
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
 [Directions to Event Venue](https://maps.google.com/maps?ll=44.957976,-123.009372&z=16&t=m&hl=en&gl=US&mapclient=embed&q=2330%2017th%20St%20NE%20Salem%2C%20OR%2097301)
