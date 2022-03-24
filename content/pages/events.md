@@ -21,6 +21,12 @@ Match Schedule (TBD - Link updated prior to first match)
 
 [Blue Alliance Stats and Livestream ](https://www.thebluealliance.com/event/2022orsal)
 
+[Check-In Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon)
+
+[Safety Glass Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon1)
+
+Carpool Driver Signup <http://bit.ly/3636-chaperone-driver>
+
 ## 3-11,12 2022 “PNW District Wilsonville Event (Week 2)”
 
 [Blue Alliance Stats and Match Videos](https://www.thebluealliance.com/event/2022orwil)
