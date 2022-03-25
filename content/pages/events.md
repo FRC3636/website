@@ -3,13 +3,13 @@ title: Events
 ---
 # Event Information
 
-[2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
-
 [2022 Competition Season Results Overview](https://frc-events.firstinspires.org/2022/team/3636) 
 
 [PNW District Rankings](https://frc-events.firstinspires.org/2022/district/PNW#rankings)
 
 [Open Alliance Weekly Updates + Photos](https://linktr.ee/Generals3636)
+
+[2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
 
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
@@ -26,8 +26,6 @@ title: Events
 Match Schedule
 
 ![](/media/salem_schedule.png)
-
-
 
 [Check-In Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon)
 
