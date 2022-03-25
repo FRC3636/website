@@ -22,7 +22,7 @@ Event Schedule
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
 [Blue Alliance  - Livestream Video + Match Schedule](https://www.thebluealliance.com/event/2022orsal)
-Match Schedule is updated occasionally - reload this page frequently
+ match schedule is updated occasionally - reload this page frequently
 
 [Google Photo Album (for uploading or viewing) ](https://photos.app.goo.gl/wKoLcREBzfeM6Tda9)
 
