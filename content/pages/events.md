@@ -25,7 +25,8 @@ Event Schedule
 
 [Blue Alliance - Generals 3636 Schedule + Stats](https://www.thebluealliance.com/team/3636/2022) 
 
-Match Schedule
+Match Schedule \
+[Countdown Ticker App](https://codepen.io/nfenger/full/jOwrGEP)
 
 ![](/media/salem_schedule.png)
 
