@@ -19,9 +19,9 @@ title: Events
 
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
-[Blue Alliance  Livestream ](https://www.thebluealliance.com/event/2022orsal)
+[Blue Alliance  - Livestream Video](https://www.thebluealliance.com/event/2022orsal)
 
-[Blue Alliance Generals 3636 Stats](https://www.thebluealliance.com/team/3636/2022)
+[Blue Alliance - Generals 3636 Schedule + Stats](https://www.thebluealliance.com/team/3636/2022) 
 
 Match Schedule
 
