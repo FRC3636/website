@@ -23,6 +23,8 @@ Event Schedule
 
 [Blue Alliance  - Livestream Video](https://www.thebluealliance.com/event/2022orsal)
 
+[Google Photo Album (for uploading or viewing) ](https://photos.app.goo.gl/wKoLcREBzfeM6Tda9)
+
 [Blue Alliance - Generals 3636 Schedule + Stats](https://www.thebluealliance.com/team/3636/2022) 
 
 Match Schedule \
