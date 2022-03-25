@@ -22,11 +22,12 @@ Event Schedule
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
 [Blue Alliance  - Livestream Video + Match Schedule](https://www.thebluealliance.com/event/2022orsal)
- match schedule is updated occasionally - reload this page frequently
+ we are team 3636 - match schedule is updated occasionally - reload this page frequently
 
 [Google Photo Album (for uploading or viewing) ](https://photos.app.goo.gl/wKoLcREBzfeM6Tda9)
 
 [Blue Alliance - Generals 3636 Schedule + Stats](https://www.thebluealliance.com/team/3636/2022) 
+ match schedule is updated occasionally - reload this page frequently
 
 [Check-In Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon)
 
