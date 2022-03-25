@@ -3,13 +3,13 @@ title: Events
 ---
 # Event Information
 
-[2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
-
 [2022 Competition Season Results Overview](https://frc-events.firstinspires.org/2022/team/3636) 
 
 [PNW District Rankings](https://frc-events.firstinspires.org/2022/district/PNW#rankings)
 
 [Open Alliance Weekly Updates + Photos](https://linktr.ee/Generals3636)
+
+[2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
 
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
@@ -17,17 +17,19 @@ title: Events
 
 [Event Schedule](https://drive.google.com/file/d/1R8lts-gLlngEpz8RPVEyq6QZCyJcrV_T/view)
 
-Match Schedule (TBD - Link updated prior to first match)
-
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
-[Blue Alliance Stats and Livestream ](https://www.thebluealliance.com/event/2022orsal)
+[Blue Alliance  - Livestream Video](https://www.thebluealliance.com/event/2022orsal)
+
+[Blue Alliance - Generals 3636 Schedule + Stats](https://www.thebluealliance.com/team/3636/2022) 
+
+Match Schedule
+
+![](/media/salem_schedule.png)
 
 [Check-In Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon)
 
 [Safety Glass Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon1)
-
-
 
 Carpool Driver Signup <http://bit.ly/3636-chaperone-driver>
 
