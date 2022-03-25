@@ -15,7 +15,9 @@ title: Events
 
 [Directions to Event Venue](https://maps.google.com/maps?ll=44.957976,-123.009372&z=16&t=m&hl=en&gl=US&mapclient=embed&q=2330%2017th%20St%20NE%20Salem%2C%20OR%2097301)
 
-[Event Schedule](https://drive.google.com/file/d/1R8lts-gLlngEpz8RPVEyq6QZCyJcrV_T/view)
+Event Schedule
+
+![](/media/event_schedule.png)
 
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
