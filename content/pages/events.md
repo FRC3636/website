@@ -13,41 +13,26 @@ title: Events
 
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
-[Directions to Event Venue](https://maps.google.com/maps?ll=44.957976,-123.009372&z=16&t=m&hl=en&gl=US&mapclient=embed&q=2330%2017th%20St%20NE%20Salem%2C%20OR%2097301)
 
-Event Schedule
+At an event with so many powerhouse teams at the peak of their robot development we couldn't take anything for granted and are extremely happy with our semi-finalist results. We also were chosen by the judges for the “Quality Award” which celebrates our “machine robustness in concept and fabrication.”  With 7 of 9 regional events complete this season, we are currently ranked eighth out of 124 in the Pacific Northwest District teams giving us a total lock on the District Championship in Cheney, WA and putting qualification for the World Championship in Houston, TX within our reach for this year.
 
-![](/media/event_schedule.png)
+
+
+The Oregon State Fairgrounds event was the most powerful of any Oregon event this season. After a rough qualification schedule moving in and out of the top three spots the Generals finished the qualification matches ranked fifth out of 28 teams. We were selected for an alliance by team 1425 and together picked team 8032 as our third robot. In our first match of the playoffs we had a programming issue that made us unable to compete, but we came back strong with the highest amount of cargo we have ever scored in the season and won the next two matches with ease. Unfortunately, in the semi-finals we were no match for the power of alliance number three of team 7034 and 4488, whose scoring power and impressive defense robot took us out of play in just two matches and went on to win the whole event. 
+
+[Blue Alliance Stats and Match Videos](https://www.thebluealliance.com/team/3636/2022)
+[Google Photo Album](https://photos.app.goo.gl/wKoLcREBzfeM6Tda9)
 
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
 
-[Blue Alliance  - Livestream Video + Match Schedule](https://www.thebluealliance.com/event/2022orsal)*\
-*We are team 3636 - match schedule is updated occasionally - reload this page frequently
-
-[Blue Alliance - Generals 3636 Schedule + Stats](https://www.thebluealliance.com/team/3636/2022)* \
-*Match schedule is updated occasionally - reload this page frequently
-
-[Google Photo Album (for uploading or viewing) ](https://photos.app.goo.gl/wKoLcREBzfeM6Tda9)
-
-[Check-In Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon)
-
-[Safety Glass Table SignupGenius](https://www.signupgenius.com/go/10c0e4da5a92ea3f9c61-oregon1)
-
-Carpool Driver Signup <http://bit.ly/3636-chaperone-driver>
-
-Carpool List
-
-![](/media/salem_carpool_list.png)
-
 ## 3-11,12 2022 “PNW District Wilsonville Event (Week 2)”
-
-[Blue Alliance Stats and Match Videos](https://www.thebluealliance.com/event/2022orwil)
-
-[Event Photos](https://photos.app.goo.gl/9nZB4iAVMriENLE56)
 
 This competition was our most successful in-season event ever. We spent the qualification matches in a close race for first with two other powerhouse teams and ranked in 3rd after some unexpected issues during the matches. We were the captains of the second ranked alliance alongside our first pick, team 1540 from Catlin Gabel and our second pick team 568 Nerds of the North from Alaska. We made it to the finals and forced a tiebreaker with some of the highest scores of the event with the other alliance barely winning out. 
 
 We ended as finalists and couldn’t be more proud of our performance. Every team at the event was a joy to work with and the respect and gracious professionalism was felt throughout the weekend. For the first time in our team’s history we won a judged award, the Industrial Design Award for robot’s impressive aesthetics and effective mechanisms. Even though we weren’t on the winning alliance, we earned more district points than we ever have at a single event putting the PNW District Championships well within our reach.
+
+[Blue Alliance Stats and Match Videos](https://www.thebluealliance.com/event/2022orwil)
+[Event Photos](https://photos.app.goo.gl/9nZB4iAVMriENLE56)
 
 ## 12-2021 “Bunnybots”
 
