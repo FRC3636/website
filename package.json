@@ -7,7 +7,6 @@
   "dependencies": {
     "@fontsource/karla": "^4.4.1",
     "@fontsource/spectral": "^4.4.0",
-    "@headlessui/react": "^1.2.0",
     "@tailwindcss/typography": "^0.4.1",
     "@types/react": "17.0.8",
     "@types/react-dom": "17.0.5",
