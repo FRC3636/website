@@ -10,7 +10,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 		createNodeField({
 			node,
 			name: `slug`,
-			value: path.join(
+			value: path.posix.join(
 				{
 					pages: `/`,
 					members: `/members`,
