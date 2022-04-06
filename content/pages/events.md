@@ -13,13 +13,13 @@ title: Events
 
 ## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
 
-Livestream (Blue Alliance)
+[Livestream (Blue Alliance)](https://m.twitch.tv/firstinspires28)
 
-Match Schedule & Stats (Blue Alliance)
+[Match Schedule & Stats (Blue Alliance)](https://www.thebluealliance.com/team/3636/2022)
 
-Participating Teams (FIRST)
+[Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56358)
 
-Photo Album
+[Photo Album](https://photos.app.goo.gl/GberU3q34nSUW57w7)
 
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
