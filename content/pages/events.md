@@ -13,11 +13,13 @@ title: Events
 
 ## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
 
-Photo Album
+Livestream (Blue Alliance)
 
 Match Schedule & Stats (Blue Alliance)
 
 Participating Teams (FIRST)
+
+Photo Album
 
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
