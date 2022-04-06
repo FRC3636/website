@@ -11,16 +11,22 @@ title: Events
 
 [2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
 
+## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
+
+Photo Album
+
+Match Schedule & Stats (Blue Alliance)
+
+Participating Teams (FIRST)
+
 ## 3-25,26 2022 “PNW District OR State Fairgrounds Event (Week 4)”
 
-
 At an event with so many powerhouse teams at the peak of their robot development we couldn't take anything for granted and are extremely happy with our semi-finalist results. We also were chosen by the judges for the “Quality Award” which celebrates our “machine robustness in concept and fabrication.”  With 7 of 9 regional events complete this season, we are currently ranked eighth out of 124 in the Pacific Northwest District teams giving us a total lock on the District Championship in Cheney, WA and putting qualification for the World Championship in Houston, TX within our reach for this year.
-
-
 
 The Oregon State Fairgrounds event was the most powerful of any Oregon event this season. After a rough qualification schedule moving in and out of the top three spots the Generals finished the qualification matches ranked fifth out of 28 teams. We were selected for an alliance by team 1425 and together picked team 8032 as our third robot. In our first match of the playoffs we had a programming issue that made us unable to compete, but we came back strong with the highest amount of cargo we have ever scored in the season and won the next two matches with ease. Unfortunately, in the semi-finals we were no match for the power of alliance number three of team 7034 and 4488, whose scoring power and impressive defense robot took us out of play in just two matches and went on to win the whole event. 
 
 [Blue Alliance Stats and Match Videos](https://www.thebluealliance.com/team/3636/2022)
+
 [Google Photo Album](https://photos.app.goo.gl/wKoLcREBzfeM6Tda9)
 
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56576)
