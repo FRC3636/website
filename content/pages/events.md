@@ -26,7 +26,7 @@ Livestream ([Blue Alliance](https://www.thebluealliance.com/event/2022pncmp)) ([
 
 <!--EndFragment-->
 
-[Match Schedule & Stats (Blue Alliance)](https://www.thebluealliance.com/team/3636/2022)
+[Match Schedule & Stats (Blue Alliance)](https://www.thebluealliance.com/event/2022pncmp)
 
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56358)
 
