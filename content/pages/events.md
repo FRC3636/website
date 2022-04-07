@@ -26,7 +26,7 @@ Livestream ([Blue Alliance](https://www.thebluealliance.com/event/2022pncmp)) ([
 
 [FIRST Event Page](https://frc-events.firstinspires.org/2022/PNCMP): [Qualification Match Schedule (FIRST)](https://frc-events.firstinspires.org/2022/PNCMP/qualifications), [Playoff Bracket (FIRST)](https://frc-events.firstinspires.org/2022/PNCMP/playoffs), [Rankings (FIRST)](https://frc-events.firstinspires.org/2022/PNCMP/rankings)
 
-[Match Schedule & Stats (Blue Alliance)](https://www.thebluealliance.com/event/2022pncmp)
+[Alternate view of above match schedule & stats (Blue Alliance)](https://www.thebluealliance.com/event/2022pncmp)
 
 [Participating Teams (FIRST)](https://www.firstinspires.org/team-event-search/event?id=56358)
 
