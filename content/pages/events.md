@@ -13,7 +13,7 @@ title: Events
 
 ## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
 
-[Livestream (Blue Alliance)](https://m.twitch.tv/firstinspires28)
+Livestream ([Blue Alliance](https://www.thebluealliance.com/event/2022pncmp)) ([Twitch](https://m.twitch.tv/firstinspires28))
 
 [Match Schedule & Stats (Blue Alliance)](https://www.thebluealliance.com/team/3636/2022)
 
