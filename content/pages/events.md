@@ -19,6 +19,35 @@ We are team #3636
 
 [Livestream (Twitch)](https://m.twitch.tv/firstinspires_roebling/home)
 
+
+
+<!--StartFragment-->
+
+### [Roebling Division](https://www.thebluealliance.com/event/2022roe)
+
+ in [Houston, TX, USA](https://maps.google.com/maps?q=Houston,%20TX,%20USA)\
+ April 20 to April 23, 2022
+
+|                | Match | Red Alliance                                           | Blue Alliance                                          | Scores                                                 |                                                        |                                                        |                                                        |                 |
+| -------------- | ----- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | --------------- |
+| Qualifications |       |                                                        |                                                        |                                                        |                                                        |                                                        |                                                        | Time (PST)      |
+|                |       | [107](https://www.thebluealliance.com/team/107/2022)   | [8861](https://www.thebluealliance.com/team/8861/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [5913](https://www.thebluealliance.com/team/5913/2022) | [7419](https://www.thebluealliance.com/team/7419/2022) | [8717](https://www.thebluealliance.com/team/8717/2022) | *Thu 6:37 AM**  |
+|                |       | [4829](https://www.thebluealliance.com/team/4829/2022) | [5437](https://www.thebluealliance.com/team/5437/2022) | [1987](https://www.thebluealliance.com/team/1987/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [3534](https://www.thebluealliance.com/team/3534/2022) | [2471](https://www.thebluealliance.com/team/2471/2022) | *Thu 9:11 AM**  |
+|                |       | [4593](https://www.thebluealliance.com/team/4593/2022) | [4130](https://www.thebluealliance.com/team/4130/2022) | [2212](https://www.thebluealliance.com/team/2212/2022) | [7457](https://www.thebluealliance.com/team/7457/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [6838](https://www.thebluealliance.com/team/6838/2022) | *Thu 11:49 AM** |
+|                |       | [4607](https://www.thebluealliance.com/team/4607/2022) | [3310](https://www.thebluealliance.com/team/3310/2022) | [5827](https://www.thebluealliance.com/team/5827/2022) | [8788](https://www.thebluealliance.com/team/8788/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [5940](https://www.thebluealliance.com/team/5940/2022) | *Thu 1:20 PM**  |
+|                |       | [3539](https://www.thebluealliance.com/team/3539/2022) | [8840](https://www.thebluealliance.com/team/8840/2022) | [5900](https://www.thebluealliance.com/team/5900/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [4481](https://www.thebluealliance.com/team/4481/2022) | [7483](https://www.thebluealliance.com/team/7483/2022) | *Thu 3:12 PM**  |
+|                |       | [340](https://www.thebluealliance.com/team/340/2022)   | [5900](https://www.thebluealliance.com/team/5900/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [359](https://www.thebluealliance.com/team/359/2022)   | [2531](https://www.thebluealliance.com/team/2531/2022) | [3374](https://www.thebluealliance.com/team/3374/2022) | *Fri 6:28 AM**  |
+|                |       | [1293](https://www.thebluealliance.com/team/1293/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | [4488](https://www.thebluealliance.com/team/4488/2022) | [3620](https://www.thebluealliance.com/team/3620/2022) | [1701](https://www.thebluealliance.com/team/1701/2022) | [5813](https://www.thebluealliance.com/team/5813/2022) | *Fri 7:38 AM**  |
+|                |       | [4930](https://www.thebluealliance.com/team/4930/2022) | [176](https://www.thebluealliance.com/team/176/2022)   | [2834](https://www.thebluealliance.com/team/2834/2022) | [2075](https://www.thebluealliance.com/team/2075/2022) | [4795](https://www.thebluealliance.com/team/4795/2022) | [3636](https://www.thebluealliance.com/team/3636/2022) | *Fri 11:05 AM** |
+|                |       | [3636](https://www.thebluealliance.com/team/3636/2022) | [1468](https://www.thebluealliance.com/team/1468/2022) | [3467](https://www.thebluealliance.com/team/3467/2022) | [2016](https://www.thebluealliance.com/team/2016/2022) | [2199](https://www.thebluealliance.com/team/2199/2022) | [5712](https://www.thebluealliance.com/team/5712/2022) | *Fri 12:43 PM** |
+|                |       | [3636](https://www.thebluealliance.com/team/3636/2022) | [230](https://www.thebluealliance.com/team/230/2022)   | [359](https://www.thebluealliance.com/team/359/2022)   | [4013](https://www.thebluealliance.com/team/4013/2022) | [6328](https://www.thebluealliance.com/team/6328/2022) | [1902](https://www.thebluealliance.com/team/1902/2022) | *Fri 2:07 PM**  |
+
+\*times are approximate up-to-date times are [here](https://www.thebluealliance.com/team/3636/2022) and [here](https://www.thebluealliance.com/event/2022roe).
+
+<!--EndFragment-->
+
+
+
 ## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
 
 [Event Schedule](https://drive.google.com/file/d/1Hb7yNudvpcPBid2NutHZkAfCbmJe_jbH/view) (see below for match times)
