@@ -15,13 +15,15 @@ title: Events
 
 We are team #3636
 
-[Match Schedule (Blue Alliance)](https://www.thebluealliance.com/event/2022roe) - times shown are adjusted for your time zone
-
 [Livestream (Twitch)](https://m.twitch.tv/firstinspires_roebling/home)
+
+[Photo Album](https://photos.app.goo.gl/hGZWbpYp9sVpQyQPA)
+
+[Match Schedule (Blue Alliance)](https://www.thebluealliance.com/event/2022roe)  Blue Alliance site times are adjusted after each match (and shown in your time zone)
 
 <!--StartFragment-->
 
-| Match                                                            | Time          |
+| Match                                                            | Time (PST)    |
 | ---------------------------------------------------------------- | ------------- |
 | [Quals 2](https://www.thebluealliance.com/match/2022roe_qm2)     | Thu 6:37 AM*  |
 | [Quals 24](https://www.thebluealliance.com/match/2022roe_qm24)   | Thu 9:11 AM*  |
@@ -43,13 +45,6 @@ We are team #3636
 We are team #3636
 
 Livestream ([Blue Alliance](https://www.thebluealliance.com/event/2022pncmp)) ([Twitch](https://m.twitch.tv/firstinspires28) also below)
-
-<!--StartFragment-->
-
-<https://www.twitch.tv/firstinspires28>\
-<https://www.twitch.tv/firstinspires29> 
-
-<!--EndFragment-->
 
 [FIRST Event Page](https://frc-events.firstinspires.org/2022/PNCMP): [Qualification Match Schedule (FIRST)](https://frc-events.firstinspires.org/2022/PNCMP/qualifications), [Playoff Bracket (FIRST)](https://frc-events.firstinspires.org/2022/PNCMP/playoffs), [Rankings (FIRST)](https://frc-events.firstinspires.org/2022/PNCMP/rankings)
 
