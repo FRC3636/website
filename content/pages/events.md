@@ -34,9 +34,7 @@ We are team #3636
 | [Quals 111](https://www.thebluealliance.com/match/2022roe_qm111) | Fri 12:43 PM* |
 | [Quals 123](https://www.thebluealliance.com/match/2022roe_qm123) | Fri 2:07 PM*  |
 
-<!--EndFragment-->
-
-\*times are approximate, up-to-date times are [here](https://www.thebluealliance.com/team/3636/2022) and [here](https://www.thebluealliance.com/event/2022roe).
+<!--EndFragment--> *times are approximate, up-to-date times are [here](https://www.thebluealliance.com/team/3636/2022) and [here](https://www.thebluealliance.com/event/2022roe).
 
 ## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
 
