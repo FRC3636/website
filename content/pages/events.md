@@ -11,6 +11,14 @@ title: Events
 
 [2022 Parent Meeting Google Slides (With Event Logistics)](https://docs.google.com/presentation/d/1OzKYu9WpnqYJnJD482vqsR5AxRag0fo1TJKUO-nWwtw)
 
+
+
+## 4-19,20,21,22,23 “FIRST Championship - Houston, TX”
+
+[Match Schedule (Blue Alliance)](https://www.thebluealliance.com/event/2022roe) - times shown are adjusted for your time zone
+
+[Livestream (Twitch)](https://m.twitch.tv/firstinspires_roebling/home)
+
 ## 4-7,8,9 2022 “PNW District Championships - Cheney, WA”
 
 [Event Schedule](https://drive.google.com/file/d/1Hb7yNudvpcPBid2NutHZkAfCbmJe_jbH/view) (see below for match times)
