@@ -35,7 +35,7 @@ We are team #3636
 |                |       | [3636](https://www.thebluealliance.com/team/3636/2022) | [1468](https://www.thebluealliance.com/team/1468/2022) | [3467](https://www.thebluealliance.com/team/3467/2022) | [2016](https://www.thebluealliance.com/team/2016/2022) | [2199](https://www.thebluealliance.com/team/2199/2022) | [5712](https://www.thebluealliance.com/team/5712/2022) | \*Fri 12:43 PM\** |
 |                |       | [3636](https://www.thebluealliance.com/team/3636/2022) | [230](https://www.thebluealliance.com/team/230/2022)   | [359](https://www.thebluealliance.com/team/359/2022)   | [4013](https://www.thebluealliance.com/team/4013/2022) | [6328](https://www.thebluealliance.com/team/6328/2022) | [1902](https://www.thebluealliance.com/team/1902/2022) | \*Fri 2:07 PM\**  |
 
-\*times are approximate up-to-date times are [here](https://www.thebluealliance.com/team/3636/2022) and [here](https://www.thebluealliance.com/event/2022roe).
+\*times are approximate, up-to-date times are [here](https://www.thebluealliance.com/team/3636/2022) and [here](https://www.thebluealliance.com/event/2022roe).
 
 <!--EndFragment-->
 
