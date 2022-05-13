@@ -2,7 +2,7 @@
 title: Calendar
 ---
 <div class="google-calendar-container">
-    <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&title=Upcoming%20Competitions%20&showNav=1&showTitle=1&src=c_a80kla531gl8oq66n852m1stpk@group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&title=Upcoming%20Competitions%20&showNav=1&showTitle=1&src=c_a80kla531gl8oq66n852m1stpk@group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:0" width="100%" height="50" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <div class="google-calendar-container">
