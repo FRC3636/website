@@ -9,4 +9,4 @@ Shoot us an email at ghsrobotics3636@gmail.com Tell us about your business, any 
 
 ## Current Sponsors
 
-![](/media/sponsor-panel-2022-white.png)
+![](/media/sponsor-panel-2022.png)
